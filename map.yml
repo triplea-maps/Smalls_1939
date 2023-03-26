@@ -1,0 +1,4 @@
+map_name: Smalls_1939
+games:
+- {game_name: Small's 1939, file_name: Smalls_1939.xml}
+version: 0
